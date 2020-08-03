@@ -1,3 +1,6 @@
+# This is an introduction to the TensorFlow where the efforts of creating the neural network is being reduced and everything is done by TensorFlow itself  
+# automatically in just few lines of code. Here different types of liberaries are being used like matplotlib, os, keras and tensorflow
+
 #!/usr/bin/env python
 # coding: utf-8
 
