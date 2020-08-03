@@ -1,3 +1,12 @@
+ #2
+
+# Used a fully connected two layer neural network to classify the same data set of single neuron. 
+# The first layer (input layer) has three neurons and the second layer (output layer) has only one neuron.
+# Using the sigmoid activation function and the same learning rules that was discussed in the class. Printed the input, Ws,  and output values after training. 
+
+
+
+
 #!/usr/bin/env python
 # coding: utf-8
 
