@@ -1,4 +1,7 @@
-# 
+# Using K-nearest neighbors’ algorithm to classify the same data set of #1. 
+# The accuracy of your algorithm for k=1, k=5, and k=7. Use 2/5 of the data set for testing.
+
+
 #!/usr/bin/env python
 # coding: utf-8
 
