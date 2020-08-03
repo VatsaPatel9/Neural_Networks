@@ -1,3 +1,9 @@
+
+# Using a fully connected three layers neural network to classify the same data set of #1. 
+# The first layer (input layer) has three neurons, the second layer has four neurons, and the third layer (output layer) has only one neuron. 
+# Using the sigmoid activation function and the same learning rules are being used.
+
+
 #!/usr/bin/env python
 # coding: utf-8
 
