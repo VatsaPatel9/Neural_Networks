@@ -1,3 +1,22 @@
+		#1
+
+This is the first step of the Neural Network, where a single neuron manually and also used sigmoid function in it. The inputs are (X1,X2,X3) and the outputs is Y
+
+X1	X2	X3	Y (output)
+0	0	0	1
+0	1	1	1
+1	0	1	1
+1	1	1	1
+1	1	0	1
+4	0	4	0
+0	4	4	0
+4	4	4	0
+
+
+
+
+
+
 #!/usr/bin/env python
 # coding: utf-8
 
